@@ -17,7 +17,7 @@
     <!-- Login Servlet Mapping -->
     <servlet>
         <servlet-name>LoginServlet</servlet-name>
-        <servlet-class>com.bankassist.controller.LoginServlet</servlet-class>
+    <servlet-class>com.bankassist.controller.LoginServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
